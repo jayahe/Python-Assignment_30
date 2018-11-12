@@ -1,2 +1,2 @@
 # Python-Assignment_30
-Python Assignment_30 description
+Racoon image compression using Cluster Analysis
